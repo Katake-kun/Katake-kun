@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Katake-kun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#**Добро пожаловать на дуэльный сервер OWS**
 
-<!---
-Katake-kun/Katake-kun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+(https://media.discordapp.net/attachments/1157955364965335061/1157963577685180486/OWS.png)
+       
+  **На сервере запрещено:**
+1. ФФА
+2. Грубые оскорбления в чате(можно словить мут)
+3. Всяческое препятствование дуэли
+<a id="Ссылка на дискорд">https://discord.gg/2fTcSX53VS</>
