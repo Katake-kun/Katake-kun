@@ -4,4 +4,4 @@
 1. *ФФА*
 2. *Грубые оскорбления в чате(можно словить мут)*
 3. *Всяческие препятствования дуэлям*
-<a id="**OWS Duel Discord**">https://discord.gg/2fTcSX53VS</>
+<a id="OWS Duel Discord">https://discord.gg/2fTcSX53VS</>
