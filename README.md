@@ -1,4 +1,4 @@
-!(https://cdn.discordapp.com/attachments/1157955364965335061/1157963577685180486/OWS.png)
+"https://cdn.discordapp.com/attachments/1157955364965335061/1157963577685180486/OWS.png"
 # **Добро пожаловать на дуэльный сервер OWS       
   На сервере запрещены:**
 1. ФФА
